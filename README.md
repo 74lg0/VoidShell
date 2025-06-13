@@ -9,7 +9,7 @@ VoidShell es una herramienta diseñada para generar malware de acceso remoto (RA
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 Este proyecto es uno de los primeros que realizo principalmente en C++, ademas de algunas funcionalidades más complejas que seran en Python. Elegí este lenguaje porque quiero dominarlo, y qué mejor forma de aprender que desarrollando un script real y funcional, ¿no?  
-El proyecto actualmente está en desarrollo. Espero terminarlo en al menos 6 meses. Incluirá herramientas de ofuscación, empaquetado y edición de código.
+El proyecto actualmente está en desarrollo. Espero terminarlo en al menos 6 meses (olvidenlo, la escuela me esta golpeando como esclavo, probablemente en 1 año 😿). Incluirá herramientas de ofuscación, empaquetado y edición de código.
 
 # Ofuscación 👾
 El código incluirá un script de ofuscación para los malwares generados, tanto para Linux, Windows como Android, mediante la implementación de una herramienta externa, como podría ser [Obfuscapk](https://github.com/ClaudiuGeorgiu/Obfuscapk). Aunque esto aún está en evaluación.
