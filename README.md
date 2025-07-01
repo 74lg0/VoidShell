@@ -48,3 +48,10 @@ Esto deberia permitirte ejecutar el script en tu sistema
 
 # Ofuscación 👾
 El código incluirá un script de ofuscación para los malwares generados, tanto para Linux, Windows como Android, mediante la implementación de una herramienta externa, como podría ser [Obfuscapk](https://github.com/ClaudiuGeorgiu/Obfuscapk). Aunque esto aún está en evaluación.
+
+# Social Networks 🔍
+[![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/74lg0)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/74lg0)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@74lg0)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Reddebit-)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/15878063307)
