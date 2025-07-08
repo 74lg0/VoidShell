@@ -70,4 +70,6 @@ namespace Color {
         return result + text + RESET;
     }
 }
+
 #endif
+
